@@ -1,12 +1,21 @@
 # Ex4.1-Animal-Feeding-Phase1
 
-Aim:
+---
+
+# DEVELOPED BY: Viswajith Lalithram R.V
+# REG NO: 212224240187
+
+---
+
+# Aim:
 
 To develop a animal feeding game-Phase-1 using unity.
 
-Algorithm:
+---
 
-Player Control :
+# Algorithm:
+
+# Player Control :
 
 Step 1:
 Extract the package and in unity, asserts -> Import packages -> Custom packages and select the package. When we go to Assets folders we can see the course library which we extracted
@@ -26,11 +35,9 @@ Adjust the XYZ scale of the food (2,2,2) so you can easily see it from above
 Step 6:
 Edit their speed values and test to see how it looks. Drag all three animals into the Prefabs folder, choosing "Original Prefab"
 
-PROGRAM:
+---
 
-DEVELOPED BY: Viswajith Lalithram R.V
-
-REG NO: 212224240187
+# PROGRAM:
 
 PLAYER CONTROL:
 
@@ -97,11 +104,15 @@ public class MOVEFORWARD : MonoBehaviour
 
 ```
 
-OUTPUT :
+---
+
+# OUTPUT :
 
 ![Alt text](<Assets/Screenshot 2025-05-09 131013.png>)
 
-RESULT :
+---
+
+# RESULT :
 
 Animal feeding game PHASE-1 using unity is developed successfully......
 
